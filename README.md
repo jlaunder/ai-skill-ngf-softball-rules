@@ -37,7 +37,7 @@ Ask any NGF or Fast Pitch rules question in plain English and get an answer with
 
 ## Installation
 
-1. Go to the [Releases](../../releases) page and download the latest `usa-softball-rules-skill.zip`
+1. Go to the [Releases](../../releases) page and download the latest `ngf-softball-rules-skill.zip`
 2. In Claude, go to **Customize > Skills**
 3. Click **+**, then **+ Create skill**, then **Upload a skill**
 4. Upload the zip file
