@@ -6,9 +6,48 @@ Source: NGF Rules and Regulations (Revised March 2026) and NGF 2026 Spring TOC R
 
 ---
 
+## Divisions and Age Eligibility
+
+### League Age
+
+A player's "League Age" is determined by their physical age as of **August 31st** of the prior year. For example, in the 2026 season, whatever the player's physical age is on 8/31/2025 is their playing age for the full season. Eligibility follows USA Softball age guidelines based on a September 1–August 31 calendar. (NGF Rules & Regs, Section IV.A)
+
+### Division Breakdown
+
+| Division | Ages |
+| --- | --- |
+| 6U Minis | 4-year-olds and first-time playing 5-year-olds |
+| 6U Super Sixers | 5-year-olds playing 2+ seasons and 6-year-olds |
+| 8U | 7–8-year-olds |
+| 10U | 9–10-year-olds |
+| 12U | 11–12-year-olds |
+| 14U | 13–14-year-olds |
+| 16U | 15–16-year-olds (formed if enough players and qualified coach; if not formed, may play in 14U recreational) |
+
+(NGF Rules & Regs, Section IV.B–C)
+
+### Playing Up
+
+A player may be placed in an upper division (excluding 6U) if all of the following are met:
+
+- Parental/guardian permission
+- Within one year of the upper division
+- Minimum 3 seasons in their appropriate age division in a USA Softball league
+- Participates in evaluations for both divisions
+- Skill-qualified and not a safety risk (determined by division managers)
+- Consent of Player Agent and Board
+
+**Playing up is allowed during the Spring Recreational Season but may NOT be allowed during the All-Star Program or Competitive leagues (Spring and Fall Select), pending approval.** (NGF Rules & Regs, Section X.B.2)
+
+### Playing Down
+
+A player may request placement in a lower division if within one year of that division, skill-qualified, and approved by Player Agent and Board. **Playing down is allowed during the Spring Recreational Season only — not during the All-Star Program or Competitive leagues.** (NGF Rules & Regs, Section X.B.3)
+
+---
+
 ## Rule Hierarchy
 
-NGF rules govern all league play. Where NGF rules are silent, USA Softball Fast Pitch rules apply. NGF rules take precedence over USA Softball rules when they conflict. (NGF Rules & Regs, Section XIII.B)
+NGF rules govern all league play. Where NGF rules are silent, USA Softball Fast Pitch rules apply. NGF rules take precedence over USA Softball rules when they conflict. The requirements of the League's playing rules shall not be suspended by agreement between managers, coaches, umpires, or any other person. (NGF Rules & Regs, Sections XIII.A and XIII.B)
 
 ---
 
@@ -110,6 +149,34 @@ Home team occupies the **third base dugout**. (NGF Rules & Regs, Section XIII.E.
 ### Ties
 
 Games can end in a tie during regular season play. (NGF Rules & Regs, Section XIII.A.4)
+
+### Standings
+
+Regular season standings are kept for 8U, 10U, 12U, and 14U. No standings are kept for 6U. (NGF Rules & Regs, Section XIII.A.2)
+
+TOC seeding is determined by regular season standings. For teams tied in the standings, the following tiebreakers are used in order:
+
+1. Head-to-head record
+2. Runs allowed
+3. Runs scored
+4. Coin flip
+
+(NGF Rules & Regs, Section XIII.A.7–8)
+
+### Postponement and Cancellation
+
+- Games may be postponed or canceled by any Board member due to inclement weather, field conditions, or emergency situations only.
+- Games may be canceled or postponed by the Board of Directors within 24 hours' notice for any reason.
+
+(NGF Rules & Regs, Section XIII.C)
+
+### Field Prep
+
+- **Home team** is responsible for pre-game field preparation: marking baselines, placing bases, obtaining game balls.
+- **Visiting team** is responsible for post-game field maintenance: removing bases, dragging the infield.
+- There shall be **no infield warm-up on the infield dirt** before the game.
+
+(NGF Rules & Regs, Section XIII.D)
 
 ---
 
@@ -265,9 +332,25 @@ Free defensive substitutions are permitted for all defensive players, including 
 
 Players are **not** allowed to base coach, **except in 14U**. (NGF Rules & Regs, Section XIII.I.1.g)
 
+### Player Benching by Manager
+
+A manager may bench a player for a specified period of time, not to exceed one game, for: failure to comply with League rules, chronic unexcused absences, unsportsmanlike conduct, or any action not in the best interest of the team. The benching must be reported to the Board. (NGF Rules & Regs, Section IX.G)
+
+### Pitcher/Catcher Opt-Out — Effect on Eligibility
+
+A pitcher or catcher who submits a written request to be removed from the pitcher's/catcher's draft (because they no longer wish to play that position) **becomes ineligible to play that position** in the TOC and in any regular season games counted toward standings or TOC seeding. Violation of this rule results in game forfeiture. (NGF Rules & Regs, Section X.C.5.c)
+
 ### Ejected Players
 
 A player ejected from the game serves a bench ejection — removed from the lineup but may remain in the dugout at the umpire's discretion. An out is recorded each time the ejected player's batting spot comes up for the remainder of the game. (NGF Rules & Regs, Section XI.I.4)
+
+### Ejected Parents and Spectators
+
+A parent or spectator ejected from a game must leave the premises and remove themselves from sight and sound within **one minute**. The game may also be forfeited at the umpire's discretion. The ejected person may not have any contact with the team during post-game activities. A parent or spectator ejected from a **second game** may be suspended from attending any NGF games for the remainder of the season at the Board's discretion. (NGF Rules & Regs, Section XI.I.3 and XI.I.5)
+
+### Player Voluntary Quit
+
+Any player who quits voluntarily shall not be reinstated on any team in any division for the remainder of that season. (NGF Rules & Regs, Section XI.I.6)
 
 ---
 
@@ -373,6 +456,71 @@ Key differences from standard USA Softball and from other NGF divisions:
 - **Metal cleats permitted** (exception for 14U)
 - **Fielder's mask optional for outfielders**
 - Tied game at 1:35 drop dead ends in a tie (regular season)
+
+---
+
+## Select Season (Warriors)
+
+Source: NGF Rules and Regulations, Section XV.
+
+### Spring Select — Dual Participation Required
+
+All Spring Select players **must also participate on a Spring Recreational team** and attend at least 75% of their Spring Recreational team's practices and games. (Section XV.C.1.b)
+
+### Fall Select — No Dual Participation
+
+Fall Select players shall only play on **either** Fall Select or Fall Recreation — not both. (Section XV.C.1.c)
+
+### Roster Size
+
+- Minimum to submit a roster: 11 players in 8U; 10 players in 10U, 12U, 14U.
+- Maximum: 12 players unless Board approves a larger roster.
+
+(Section XV.B.3)
+
+### Voluntary Quit — Select Season
+
+Any player who signs a Select acceptance form and quits during the select season is not eligible to play Select the following season. A player may petition the Board for an exception due to extenuating circumstances. (Section XV.C.5)
+
+---
+
+## All Stars
+
+Source: NGF Rules and Regulations, Section XIV.
+
+### Manager Eligibility
+
+All-Star manager candidates must have been a manager or coach for NGF during the current season. The Board may bar an applicant who has violated NGF rules or acted with poor sportsmanship. (Section XIV.A.1–2)
+
+### Levels
+
+Each division may field multiple All-Star teams at Gold, Silver, and Bronze levels, depending on the availability of pitching and catching and Board approval. (Section XIV.B.1–2)
+
+### Team Size
+
+Each All-Star team shall have 12 players. A manager may request a 13th player pending Board approval. (Section XIV.B.2.b–c)
+
+### Player Selection
+
+- Managers for each division rank 9 players per team (e.g., 18 players for Gold + Silver). Rankings submitted no earlier than May 1st. (Section XIV.C.3.a)
+- Rankings are assigned numerical values in reverse order; the six players with the most points are placed on the Gold team. The Gold manager then picks the next three from the ranked list, and the final three from any player who applied. (Section XIV.C.3.c)
+- The Board must vote to approve each team. (Section XIV.C.4)
+
+### Playing Up During All-Stars
+
+A player who plays in a higher division during the recreational season may request to play in that same division during All-Stars. Requires a ⅔ vote of the division managers the player currently plays in AND ⅔ vote of the Board of Directors. (Section XIV.C.2)
+
+### Declining an All-Star Offer
+
+Any player who declines an offer to play on any All-Star team will be banned from playing All-Stars the **following season**. (Section XIV.C.5)
+
+### Uniforms
+
+Players are prohibited from wearing any jersey or pants not provided by the League in any All-Star games. (Section XIV.E.2)
+
+### Championship Tournament Expenses
+
+The League will not provide funds toward players' expenses in championship tournaments, with the exception of a National Championship Tournament. All requests for funds are subject to Board approval. (Section XIV.E.1)
 
 ---
 
