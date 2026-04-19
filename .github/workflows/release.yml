@@ -1,0 +1,27 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build zip
+        run: |
+          mkdir -p usa-softball-fastpitch-rules
+          cp SKILL.md usa-softball-fastpitch-rules/
+          cp -r references usa-softball-fastpitch-rules/
+          zip -r usa-softball-rules-skill.zip usa-softball-fastpitch-rules/
+
+      - name: Upload to release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: usa-softball-rules-skill.zip

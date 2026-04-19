@@ -86,6 +86,16 @@ A batter should be called out immediately for hitting a pitched ball while out o
 
 ---
 
+## RS #8 — Catcher's Box
+
+The catcher's box is described in Rule 2, Section 3D.
+
+**(Fast Pitch)** Catchers must remain in the catcher's box until the pitch is released. The catcher may move closer to the plate without penalty when the batter is positioned in the front portion of the batter's box during a pitch. However, the catcher must at all times avoid catcher's obstruction, as the batter has the right to the entire batter's box. Obstruction does not require contact between the catcher and the bat or the batter. The umpire's request for the catcher to move farther away to avoid injury or obstruction must be obeyed. (See catcher obstruction under RS #36.)
+
+**(Slow Pitch)** The catcher may not have any part of their body or equipment touching the ground outside the lines of the catcher's box until the ball is batted, touches the ground or plate, hits the batter, or reaches the catcher's box. It is an illegal pitch if the catcher touches outside the catcher's box. The catcher, even when within the catcher's box, may still obstruct the batter.
+
+---
+
 ## RS #9 — Charged Conferences
 
 **A. Defensive charged conference:** When the defensive team requests suspension of play and a representative enters the field to communicate with any defensive player.
@@ -111,6 +121,14 @@ Four areas determine a swing:
 On a bunt attempt: was the bat moved toward the ball? The umpire should consider: Was the pitch in the strike zone? Did the batter swing at the pitched ball, or (on a bunt attempt) did the batter move the bat toward the ball?
 
 If the umpire calls the pitch a ball and the catcher requests a check swing ruling, the plate umpire should ask the base umpire ONLY if there is doubt. If the base umpire is asked and calls a strike, or if the ball was a bunt attempt that is fouled off on the 3rd strike, the dropped 3rd strike rule applies.
+
+---
+
+## RS #11 — Communication / Electronic Devices
+
+**A.** Communication/electronic devices, including audio/video equipment, used to communicate between coaches or with anyone outside the field of play are not allowed on the playing field. Head phones and ear phones used to communicate between coaches' boxes, between coaches and the dugout, or from the stands to the dugout are prohibited. Umpires must prohibit any use of such equipment. Electronic scorebooks are permitted for use by base coaches.
+
+**B.** An exclusively one-way electronic communication device may be used by the defense or offense to relay the pitch or play call from the dugout or field.
 
 ---
 
@@ -179,6 +197,32 @@ Once the game begins, only players involved in the game may be outside the dugou
 
 ---
 
+## RS #17 — Equipment on the Playing Field
+
+Loose equipment, miscellaneous items, or detached parts of a player's uniform (other than those being legally used in the game) should not be within live ball territory. Official equipment that may be in live ball territory with no penalty includes: the batter's bat, the catcher's mask, umpire paraphernalia, a helmet that has inadvertently fallen off a player during play, or any equipment belonging to a person assigned to the game.
+
+**A. Thrown Ball:**
+1. When a thrown ball hits loose equipment belonging to the team at bat, the ball is dead immediately. If such action interferes with a play, interference is ruled — the runner being played on is called out and each runner returns to the last base touched prior to the interference. If no play was apparent, a blocked ball is ruled; no one is called out and all runners return to the last base touched.
+2. When the loose equipment belongs to the team in the field, it becomes a blocked ball and the overthrow rule applies (two-base award).
+
+**B. Batted Ball:**
+1. A batted foul ball touching loose equipment is a foul ball.
+2. A batted fair ball touching loose equipment belonging to:
+   - **a.** The offense: it is a dead ball and runners return, unless they are forced to advance when the batter-runner is awarded first base on a base hit.
+   - **b.** The defense: it is a dead ball and all runners, including the batter-runner, are awarded two bases from their position at the time of the pitch.
+
+---
+
+## RS #18 — Extra Player (EP) — Slow Pitch / JO Fast Pitch
+
+**Slow Pitch:** If a team uses the EP, it must be indicated on the line-up card at the start of the game. The team must end the game with 11 players or play using the shorthanded rule. All 11 players bat, but only 10 play defense. Defensive changes may be made at any time; however, the batting order may not change. Any of the 11 starting players may leave the game once and re-enter. A starting player and their substitute may not be in the game at the same time.
+
+**JO Fast Pitch:** Any batters in addition to the defensive players and/or DP/FLEX shall be listed as EPs. Defensive changes may be made at any time; however, the batting order may not change.
+- **Pool Play Only:** Multiple EPs may be used; they must be indicated on the line-up card. If an injury occurs, the line-up is compressed with no penalty. Teams may not continue with fewer than eight players.
+- **All Other Play:** If a team uses the EP, it must be indicated on the line-up card at the start of the game. The team must end the game with 10 players batting or play using the shorthanded rule.
+
+---
+
 ## RS #19 — Fake Tag
 
 A fake tag occurs when a fielder without the ball deceives the runner by simulating a tag, causing the runner to slide, slow down, or stop.
@@ -234,6 +278,12 @@ When a batter hits the pitched ball a second time, the umpire places the act int
 
 ---
 
+## RS #25 — Home Runs (Slow Pitch) and Running Bases
+
+*Applies only to all Adult and Junior Olympic Boys Slow Pitch.* When an over-the-fence home run is hit, the batter and all base runners may go directly to the dugout. Appeals for runners missing a base are not allowed. The batter-runner or runners may not be called out for any base running infraction. This speeds up the game as batters and runners do not have to run the bases.
+
+---
+
 ## RS #26 — Home Runs / Four-Base Awards / Two-Base Awards
 
 - A batted ball that does not hit the ground and leaves the playing field in fair territory is a home run.
@@ -242,6 +292,16 @@ When a batter hits the pitched ball a second time, the umpire places the act int
 - **C.** A batted ball hitting a defensive player in fair territory but going over the fence in foul territory is a two-base award.
 - **D.** A batted ball that leaves the park in fair territory but first touches the ground in foul territory is a home run.
 - **E.** A batted ball that touches the fence, then touches a player, and goes over the fence in fair territory is a two-base award.
+
+---
+
+## RS #27 — Imaginary Line or Dead Ball Area
+
+When a fielder carries a live ball into a dead ball area, the ball becomes dead and bases are awarded. If the act is **unintentional**, the award is one base. If **intentional**, the award is two bases. The base award is governed from the last base legally touched at the time the ball became dead.
+
+When a chalk line is used to determine an out-of-play area, the line is in play. A fielder touching the line is in the field of play and may make a legal catch or throw. If a foot is on the ground completely in dead ball territory (not touching the line), the ball is dead and no play may be made. If a fielder catches the ball with one foot inside the line or touching the line and another foot in the air, the catch is legal; if the fielder then steps completely into dead ball territory, the ball becomes dead and all runners are awarded one base from the last base touched.
+
+Defensive players cannot intentionally throw or step into a dead ball area to prevent a runner from returning to a missed base. If so ruled, allow the runner to return to the base.
 
 ---
 
@@ -266,6 +326,12 @@ The ball cannot be intentionally dropped unless the fielder has actually caught 
 ## RS #31 — Intentional Walk (Fast Pitch)
 
 The ball is live during an intentional walk in fast pitch. All defensive players must be in fair territory until the pitch is released, except the catcher (who must be in the catcher's box at the start of each pitch). All four pitches must be thrown to the catcher.
+
+---
+
+## RS #32 — Intentional Walk (Slow Pitch)
+
+An intentional walk in Slow Pitch occurs during a dead ball — no pitch is required. The defensive team notifies the plate umpire of their intent; the umpire calls time out and awards the batter first base without liability to be put out. A possible appeal on a previous play is nullified. When two successive batters are walked intentionally, the second walk may not be administered until the first batter reaches first base.
 
 ---
 
@@ -406,6 +472,24 @@ Six basic features:
 
 ---
 
+## RS #41 — Pitcher's Uniform
+
+A pitcher should be dressed identically to the other players on the team. A long-sleeve sweatshirt of any color is acceptable under the jersey, but sleeves may not extend past the wrist (a clear gap must be seen between the ball and the end of the shirt). If two or more players including the pitcher wear sweatshirts, they must be identical in color and style. No player may wear ragged, frayed, or slit sleeves on an exposed undershirt.
+
+A pitcher may wear a batting glove and/or wristband on the glove hand and wrist, and may wear a pitcher's toe plate on their shoe.
+
+**(Fast Pitch)** A pitcher may wear a band-aid on the finger or an arm wrap on the arm, as long as the umpire feels neither is distracting to the batter. Flesh-colored band-aids or wraps should be allowed. If a design or writing is on the wrap and the umpire feels it is distracting, the pitcher should be asked to remove it. The pitcher's glove/mitt may be of one solid color or multicolored as long as it does not contain colors that are the same as the color of the ball being used.
+
+**(Slow Pitch)** A pitcher may wear a wristband on the pitching arm and tape on the pitching fingers, and may wear any color fielder's glove. A batting glove may not be worn on the pitching hand.
+
+---
+
+## RS #42 — Protested Game Upheld and Resumed
+
+When a protest is upheld, the game shall be resumed from the point at which it was protested. The same line-ups must be used when the game is resumed, but there is no penalty for substitutions legally placed into the line-ups in the interim. Even if a player was not at the protested game, they are legal for substitution purposes when the game is rescheduled as long as they are on the roster at the time of the rescheduled game. If a player was ejected or disqualified in the original game after the protest was filed, that player may legally play in the rescheduled game because they were legally in the game at the time of the protest, unless the ejection drew a suspension for unsportsmanlike conduct.
+
+---
+
 ## RS #43 — Run Scoring on the Third Out of an Inning
 
 A run cannot score when the third out of an inning is:
@@ -471,6 +555,24 @@ After beginning with a full team, a team may continue with one player fewer than
 
 ---
 
+## RS #49 — Sporting Behavior
+
+The values of softball competition are based on good sporting behavior and fair play. Examples of unsporting behavior (not limited to):
+
+**A.** Uniforms not worn properly (jerseys not tucked in, sleeves rolled under, caps worn backwards).
+
+**B.** Exposed undergarments of different colors worn by different teammates on the same team.
+
+**C.** Coaching tactics that endanger the safety of players.
+
+**D.** After equipment check, illegal equipment being put back into play.
+
+**E.** Use of equipment for other than its intended design.
+
+**F.** The use of artificial noisemakers during championship play is prohibited.
+
+---
+
 ## RS #50 — Stealing (Slow Pitch)
 
 *Not applicable to Fast Pitch. Base stealing in Fast Pitch is governed by Rule 8, Section 4.*
@@ -486,6 +588,18 @@ If an unreported substitute bats and it is discovered prior to the next pitch, a
 Any player may be substituted for or replaced and re-enter once, as long as they occupy the same batting position whenever in the lineup.
 
 A game is forfeited to a substitution violation when a player is removed by the umpire for using an illegal player, or if the ejection creates a situation where there are not enough players to continue.
+
+---
+
+## RS #52 — Throwing or Carrying a Bat
+
+When a player throws the bat intentionally in anger, the player should be ejected. Should the bat slip from the batter's hands, there is no penalty unless the discarded bat prevents the defense from making a play on the ball, in which case interference should be ruled. There is no penalty when a player carries a bat to first base or any other base; however, should the player use the bat to prevent a defensive player from making a play, interference should be ruled.
+
+---
+
+## RS #53 — Tie Games or Games Called Which Are Less Than Regulation
+
+When games that are called with less than regulation innings completed, or tied games, are rescheduled, the same procedure applies as in RS #42 (Protested Game Upheld and Resumed). In determining tie games after five innings have been played (a regulation game), the home team must have had the opportunity to bat and tie the score. If the home team has scored more runs than the visiting team and the game is called in the bottom of the fifth or sixth inning, the home team shall be the winner. If the visiting team has scored more runs than the home team in the sixth or seventh inning and the home team has not had the opportunity to complete its turn at bat, the game reverts to the previous inning. If that score was tied, it is a tie game. Should a game be called before five full innings are played (four and a half if the home team is ahead), the game should be resumed at the point it was called.
 
 ---
 
