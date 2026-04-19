@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.2 — 2026-04-19
+
+- Fixed disclaimer showing on every response — now shown on first response only
+
 ## v1.1 — 2026-04-19
 
 - Added All Stars section to NGF local rules reference (team size, levels, player eligibility, playing-up rules, decline/ban rule, uniform rules, championship expenses)
