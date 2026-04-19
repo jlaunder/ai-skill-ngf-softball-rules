@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.3 — 2026-04-19
+
+- Strengthened disclaimer constraint to catch vague officiality questions (e.g. "Is it official?")
+
 ## v1.2 — 2026-04-19
 
 - Updated version number in skill frontmatter and system prompt
