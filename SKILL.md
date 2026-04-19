@@ -1,6 +1,6 @@
 ---
 name: usa-softball-fastpitch-rules
-version: "1.4"
+version: "1.5"
 description: "USA Softball 2026 Fast Pitch rules knowledge base. Answers questions about official USA Softball Fast Pitch rules covering pitching, batting, base running, equipment, field dimensions, substitutions, interference, obstruction, courtesy runners, and more. Use this skill any time someone asks about softball rules, what's legal or illegal in a game, pitching mechanics, base running situations, batting rules, substitutions, or any other USA Softball Fast Pitch rules question. Trigger eagerly — if the question could be about a Fast Pitch softball rule or game situation, use this skill."
 ---
 
