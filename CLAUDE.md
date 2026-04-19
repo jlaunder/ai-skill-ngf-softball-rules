@@ -32,3 +32,11 @@ GitHub releases use the tag format `v1.0`, `v1.1`, `v2.0`, etc. Update the versi
 - Each file covers one rule section. The routing table in `SKILL.md` maps question types to files — update the table if you add or rename files.
 - Fast Pitch rules only. Slow Pitch / Modified Pitch variants may appear in the source PDF alongside FP rules; do not include them in the reference files unless they are needed as contrast.
 - Rule citations in reference files should match the format used in answers: `Rule X, Section Y` or `Rules Supplement #N`.
+
+## Releasing a new version
+
+1. Bump `version` in `SKILL.md` frontmatter and update the version number in the system prompt line (first paragraph).
+2. Add an entry to `CHANGELOG.md`.
+3. Push a tag matching `v<version>` (e.g. `v1.5`) — GitHub Actions will build `usa-softball-rules-skill.zip` and attach it to the release automatically.
+
+The zip bundles `SKILL.md` and the entire `references/` directory into a `ngf-softball-rules/` folder as `ngf-softball-rules-skill.zip`. No docs or other files are included.

@@ -1,24 +1,28 @@
-# USA Softball Fast Pitch Rules — AI Skill
+# Navajo Girls Fastpitch Rules — AI Skill
 
-Get instant, accurate answers to USA Softball 2026 Fast Pitch rules questions — with rule citations, division notes, and step-by-step reasoning for complex plays.
+Get instant, accurate answers to Navajo Girls Fastpitch (NGF) 2026 league rules questions — with NGF local rules layered on top of USA Softball 2026 Fast Pitch rules, rule citations, division notes, and step-by-step reasoning for complex plays.
 
+> **Not in NGF?** A USA Softball-only version of this skill (no local league rules) is available at [jlaunder/ai-skill-usa-softball-rules](https://github.com/jlaunder/ai-skill-usa-softball-rules).
 
 ## What it does
 
-Ask any Fast Pitch rules question in plain English and get an answer with the same accuracy and authority as a certified umpire. The skill:
+Ask any NGF or Fast Pitch rules question in plain English and get an answer with the same accuracy and authority as a certified umpire. The skill:
 
+- Applies NGF local rules first — where NGF rules differ from USA Softball, the NGF rule governs
 - Cites the specific rule number and section in every answer
 - Applies Fast Pitch rules only (ignores Slow Pitch variants)
-- Notes when a rule differs by division (pitching distance, base path length, ball size, etc.)
+- Notes when a rule differs by division (pitching distance, base path length, ball size, stealing home, etc.)
 - Reasons through complex multi-rule situations step by step
-- Tells you when the answer isn't in the rulebook rather than guessing
+- Tells you when the answer isn't in the rules rather than guessing
 
 **Example questions:**
 
+- "Can a runner steal home in 8U?"
+- "What ball does 10U use?"
+- "How many innings can a pitcher throw in a week in 12U?"
+- "What are the TOC mercy rules?"
 - "Is an unreported substitute allowed to bat?"
-- "What happens if a pitcher steps off the rubber with the pivot foot first?"
-- "Can a courtesy runner be used for the pitcher and catcher at the same time?"
-- "What is the infield fly rule and when does it apply?"
+- "What is the infield fly rule and when does it apply in NGF?"
 - "What version is this skill?"
 
 ---
@@ -44,7 +48,7 @@ That's it. The skill will appear in your skills list and can be toggled on or of
 
 ## How to use it
 
-Just ask your question — Claude will automatically recognize softball rules questions and use this skill. You can also invoke it manually by typing `/usa-softball-fastpitch-rules` followed by your question.
+Just ask your question — Claude will automatically recognize softball rules questions and use this skill. You can also invoke it manually by typing `/ngf-softball-rules` followed by your question.
 
 ---
 
@@ -52,6 +56,7 @@ Just ask your question — Claude will automatically recognize softball rules qu
 
 | Rules file | What it covers |
 | --- | --- |
+| NGF Local Rules | Field dimensions, game balls, time/run limits, pitching limits, helmets, cleats, stealing by division, substitutes, TOC rules — all NGF-specific |
 | Rule 1 — Definitions | All defined terms |
 | Rule 2 — The Playing Field | Field and diamond dimensions |
 | Rule 3 — Equipment | Bats, balls, helmets, uniforms, cleats |
@@ -76,8 +81,8 @@ No. Claude requires an internet connection. Download the mobile app ahead of tim
 **Does it cover Slow Pitch or Modified Pitch?**
 No. This skill applies Fast Pitch rules only. Slow Pitch and Modified Pitch variants are intentionally excluded.
 
-**Is this official? Is it endorsed by USA Softball?**
-No. This is an independent tool built from the publicly available 2026 USA Softball rulebook. It is not affiliated with or endorsed by USA Softball. Always defer to your league's official rulebook and Umpire in Chief for final rulings.
+**Is this official? Is it endorsed by USA Softball or NGF?**
+No. This is an independent tool built from publicly available documents. It is not affiliated with or endorsed by USA Softball or Navajo Girls Fastpitch (NGF). Always defer to your league's official rulebook and Umpire in Chief for final rulings.
 
 **What if it gets a rule wrong?**
 See the Report an Issue section below.
@@ -94,4 +99,4 @@ If the skill gives an incorrect or incomplete answer, email [jeremy@jeremylaunde
 
 ---
 
-Source: USA Softball 2026 Official Rules of Softball
+Sources: NGF Rules and Regulations (Revised March 2026), NGF 2026 Spring TOC Rules, USA Softball 2026 Official Rules of Softball

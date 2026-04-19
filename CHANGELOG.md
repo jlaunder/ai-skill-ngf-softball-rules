@@ -1,30 +1,10 @@
 # Changelog
 
-## v1.5 — 2026-04-19
-
-- Disclaimer now shown proactively on the first response of every conversation
-
-## v1.4 — 2026-04-19
-
-- Further strengthened disclaimer constraint with explicit example triggers and instruction not to interpret "official" as referring to the rulebook
-
-## v1.3 — 2026-04-19
-
-- Strengthened disclaimer constraint to catch vague officiality questions (e.g. "Is it official?")
-
-## v1.2 — 2026-04-19
-
-- Updated version number in skill frontmatter and system prompt
-- Added disclaimer: skill is not affiliated with or endorsed by USA Softball
-
-## v1.1 — 2026-04-19
-
-- Added disclaimer constraint to skill prompt (not official/endorsed by USA Softball)
-
 ## v1.0 — 2026-04-19
 
-Initial release.
+Initial release of the Navajo Girls Fastpitch (NGF) edition.
 
-- Full coverage of 2026 USA Softball Fast Pitch rules (Rules 1–12)
-- All 55 Rules Supplement entries
-- Fast Pitch only — Slow Pitch and Modified Pitch variants excluded
+- Added NGF local league rules reference file (`references/ngf-local-rules.md`) covering field dimensions, game balls, time/run limits, pitching limits, base running rules by division, substitute rules, and Tournament of Champions (TOC) rules
+- Updated skill identity, constraints, and routing table to apply NGF rules first, with USA Softball rules as the fallback
+- Updated disclaimer to note the skill is not affiliated with or endorsed by USA Softball or NGF
+- Full coverage of 2026 USA Softball Fast Pitch rules (Rules 1–12) and all 55 Rules Supplement entries retained as fallback

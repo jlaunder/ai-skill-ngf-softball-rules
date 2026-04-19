@@ -16,12 +16,12 @@ jobs:
 
       - name: Build zip
         run: |
-          mkdir -p usa-softball-fastpitch-rules
-          cp SKILL.md usa-softball-fastpitch-rules/
-          cp -r references usa-softball-fastpitch-rules/
-          zip -r usa-softball-rules-skill.zip usa-softball-fastpitch-rules/
+          mkdir -p ngf-softball-rules
+          cp SKILL.md ngf-softball-rules/
+          cp -r references ngf-softball-rules/
+          zip -r ngf-softball-rules-skill.zip ngf-softball-rules/
 
       - name: Upload to release
         uses: softprops/action-gh-release@v2
         with:
-          files: usa-softball-rules-skill.zip
+          files: ngf-softball-rules-skill.zip
